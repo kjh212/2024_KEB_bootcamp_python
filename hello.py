@@ -1,0 +1,1 @@
+print("hello py") #alt+shift+f10
