@@ -1,10 +1,14 @@
-univ="Inha university"
-print(univ)
-print(univ[5])
-#univ[5]='U'
-#print(univ)
-subjects = ['python', 'c++', 'linux', 'data structure & algorithm' , 'database']
-print(subjects)
-print(subjects[3])
-subjects[3] = 'data structue & algorithm'
-print(subjects)
+# "univ" = "inha university"
+# 99=71
+#case-sensitive
+abc=7
+Abc=8
+ABC=6
+print(abc,Abc,ABC)
+
+test9=77
+# 9test=77 - error(begin number)
+_9test=77
+print(test9,_9test)
+
+# False = 123
